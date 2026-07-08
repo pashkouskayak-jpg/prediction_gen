@@ -19,4 +19,7 @@ function generateMyMessage() {
     return message;
 }
 
+console.log("Your prediction for the nearest future is:");
 console.log(generateMyMessage());
+console.log("Want to see another prediction? Refresh the page!");
+
